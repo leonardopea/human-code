@@ -6,7 +6,7 @@ problema: scansionare una pagina
 4 apro il programma di scansione
 5 prendo i documenti da digitalizzare
 6 apro lo scanner
-7 prendo il documento da digitalizzare
+7 prendo il  documento da digitalizzare
 8 inserisco il documento 
 9 chiudo lo scanner
 10 scannerizzo il documento
@@ -18,6 +18,9 @@ problema: scansionare una pagina
     12.2 ripeto la scansione
 
 13 Apro lo scanner
+13.5 Se documento ha contenuto?
+    si si vado avanti
+    se no torno al punto 5 
 14 Giro il documento
 15 chiudo lo scanner
 16 scannerizzo il documento
